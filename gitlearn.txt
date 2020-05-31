@@ -1,1 +1,4 @@
 hello git,I'm nieyanshuo
+hello learngit resposity
+git test diff
+git test status
