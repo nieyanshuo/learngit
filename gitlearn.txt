@@ -5,4 +5,3 @@ git test status
 
 git for commit
 test again for commit
-set editor vim
